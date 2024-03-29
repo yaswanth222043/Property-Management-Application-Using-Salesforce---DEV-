@@ -1,46 +1,46 @@
-Name of student:
-Learning track:
-Project Name:
-Trailhead profile link:
-Developer org name:
-Developer org password:
-position:
+Name of student: Thirumala yaswanth
+Learning track: Developer
+Project Name: Property Management Application Using Salesforce - (DEV)
+Trailhead profile link: https://www.salesforce.com/trailblazer/yaswanththirumala
+Developer org name: yaswanth@gdcproject.com
+Developer org password: Gayatri@123
+position: Team Lead
 
 
-Name of student:
-Learning track:
-Project Name:
-Trailhead profile link:
-Developer org name:
-Developer org password:
-position:
+Name of student: K Krishna prasad reddy
+Learning track: Developer
+Project Name: Property Management Application Using Salesforce - (DEV)
+Trailhead profile link: https://www.salesforce.com/trailblazer/krishnaprasad6336
+Developer org name: krishna@gdcproject.com
+Developer org password: Gayatri@123
+position: Team member
 
 
-Name of student:
-Learning track:
-Project Name:
-Trailhead profile link:
-Developer org name:
-Developer org password:
-position:
+Name of student: K Harsha Vardhan
+Learning track: Developer
+Project Name: Property Management Application Using Salesforce - (DEV)
+Trailhead profile link: https://www.salesforce.com/trailblazer/harshavardhan8308
+Developer org name: harsha@gdctirupati.com
+Developer org password: Gayatri@123
+position: Team Member
 
 
-Name of student:
-Learning track:
-Project Name:
-Trailhead profile link:
-Developer org name:
-Developer org password:
-position:
+Name of student: N Abhishek
+Learning track: Developer
+Project Name: Property Management Application Using Salesforce - (DEV)
+Trailhead profile link: https://www.salesforce.com/trailblazer/abhisheknanoori
+Developer org name: shek71917@gdctirupathi.com
+Developer org password: Gayatri@123
+position: Team Member
 
 
-Name of student:
-Learning track:
-Project Name:
-Trailhead profile link:
-Developer org name:
-Developer org password:
-position:
+Name of student: A Monesh 
+Learning track: Developer
+Project Name: Property Management Application Using Salesforce - (DEV)
+Trailhead profile link: https://www.salesforce.com/trailblazer/moneshaddanki7344
+Developer org name: amonesh90@gdctirupati.com
+Developer org password: Gayatri@1234
+position: Team Member
 
 
 
