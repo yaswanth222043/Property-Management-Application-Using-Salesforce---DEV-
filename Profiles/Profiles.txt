@@ -1,4 +1,4 @@
-Name of student: Thirumala yaswanth
+Name of student: Tirumala yaswanth
 Learning track: Developer
 Project Name: Property Management Application Using Salesforce - (DEV)
 Trailhead profile link: https://www.salesforce.com/trailblazer/yaswanththirumala
