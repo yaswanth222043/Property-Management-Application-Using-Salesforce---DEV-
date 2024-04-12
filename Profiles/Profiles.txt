@@ -7,30 +7,30 @@ Developer org password: Gayatri@123
 position: Team Lead
 
 
-Name of student: K Krishna prasad reddy
+Name of student: THUMMUTHUKKA SIVA PRASAD
 Learning track: Developer
 Project Name: Property Management Application Using Salesforce - (DEV)
-Trailhead profile link: https://www.salesforce.com/trailblazer/krishnaprasad6336
-Developer org name: krishna@gdcproject.com
-Developer org password: Gayatri@123
+Trailhead profile link: https://www.salesforce.com/trailblazer/sivaprasadthummuthukka9848
+Developer org name:Shiva@gdcproject.com
+Developer org password: Cyclopes@2024
 position: Team member
 
 
-Name of student: K Harsha Vardhan
+Name of student: POOLASETTY SOMASEKHAR
 Learning track: Developer
 Project Name: Property Management Application Using Salesforce - (DEV)
-Trailhead profile link: https://www.salesforce.com/trailblazer/harshavardhan8308
-Developer org name: harsha@gdctirupati.com
-Developer org password: Gayatri@123
+Trailhead profile link: https://www.salesforce.com/trailblazer/somasekharpoolasetty
+Developer org name: harsha@gdctirupati.comsomu@gdcproject.com
+Developer org password: Cyclopes@2024
 position: Team Member
 
 
-Name of student: N Abhishek
+Name of student:BATHALA DHANANJAYA
 Learning track: Developer
 Project Name: Property Management Application Using Salesforce - (DEV)
-Trailhead profile link: https://www.salesforce.com/trailblazer/abhisheknanoori
-Developer org name: shek71917@gdctirupathi.com
-Developer org password: Gayatri@123
+Trailhead profile link: https://www.salesforce.com/trailblazer/bathaladhananjaya
+Developer org name: dhananjayabathala@gdctirupati.com
+Developer org password: Gayatri@1234
 position: Team Member
 
 
