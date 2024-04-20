@@ -20,7 +20,7 @@ Name of student: POOLASETTY SOMASEKHAR
 Learning track: Developer
 Project Name: Property Management Application Using Salesforce - (DEV)
 Trailhead profile link: https://www.salesforce.com/trailblazer/somasekharpoolasetty
-Developer org name: somu@gdcproject.com
+Developer org name: somu@gdcprojecttirupati.com
 Developer org password: Gayatri@12345
 position: Team Member
 
